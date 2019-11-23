@@ -1,6 +1,6 @@
 # E-Lang
 
-> E-Lang is just a random language I created for a school project
+> E-Lang is just a random language Rubikscraft created for a school project
 
 ## Building E-Lang
 
